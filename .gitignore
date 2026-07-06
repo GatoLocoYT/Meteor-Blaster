@@ -1,0 +1,5 @@
+build/
+dist/
+*.egg-info/
+Meteor_Blaster.rar
+Meteor_Blaster.spec
