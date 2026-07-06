@@ -8,7 +8,8 @@ Originally created as a small personal project to practice game development and 
 
 ## 📸 Preview
 
-> *(You can add a screenshot or GIF here later.)*
+> ![Screenshot](assets/gameplay.jpeg)
+> ![Gameplay](assets/Meteor_Blaster.gif)
 
 ---
 
